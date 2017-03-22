@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>はじめてのHTML</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <h1>お問い合わせフォーム</h1>
+    <p>メールアドレスとお問い合わせ内容を入力し、個人情報の取扱いに同意するにチェックを付けた上で、送信ボタンをクリックしてください。</p>
+
+    <form method="POST" action="">
+      <div>
+        メールアドレス：<input type="text" name="name">
+      </div>
+      <div>
+        問い合わせ内容：<textarea name="details"></textarea>
+      </div>
+      <div>
+        <label for="acceptPolicy">
+          <input type="checkbox" id="acceptPolicy" name="acceptPolicy" value="true">個人情報の取扱いに同意する
+        </label>
+      </div>
+      <div>
+        <button type="submit">送信</button>
+      </div>
+    </form>
+  </body>
+</html>

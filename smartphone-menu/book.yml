@@ -1,0 +1,14 @@
+title: HTML&CSSでつくるスマホ風メニュー
+image: cover.jpg
+detail: |
+  このブックでは「はじめてのHTML」及び「はじめてのCSS」を学習した人を対象として、クリックすると大項目のリストが開き小項目のリストが表示される「スマホ風メニュー」を作成していきます。
+chapters:
+  - chapter1.md
+  - chapter2.md
+  - chapter3.md
+  - chapter4.md
+  - chapter5.md
+  - chapter6.md
+  - chapter7.md
+tags:
+  - CSS

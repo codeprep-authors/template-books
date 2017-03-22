@@ -1,0 +1,17 @@
+title: はじめてのHTML
+image: cover.png
+detail: |
+  このブックでは、HTML未経験者を対象にHTMLで使用される用語や基本的HTML要素(タグ)について学習します。
+  HTMLについての基本的な理解と、いくつかのHTML要素を使えるようになることを目標としています。
+chapters:
+  - chapter1.md
+  - chapter2.md
+  - chapter3.md
+  - chapter4.md
+  - chapter5.md
+  - chapter6.md
+  - chapter7.md
+tags:
+  - HTML
+preview:
+  - chapter: 6-6

@@ -1,0 +1,12 @@
+title: CSSで色の理論を理解する
+image: cover.png
+detail: |
+  このブックは「はじめてのCSS」の学習を終えた方を対象として、CSSにおける色の指定と、その周辺の知識について学びます。CSSにおける色について、より一歩深い理解を得たい方向けのブックです。
+chapters:
+  - chapter1.md
+  - chapter2.md
+  - chapter3.md
+  - chapter4.md
+  - chapter5.md
+tags:
+  - CSS
